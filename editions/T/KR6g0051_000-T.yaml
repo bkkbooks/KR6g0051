@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0051/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 涅槃論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1527.xml
+    old_id: T26n1527
+hash: sha256:15973c50d871953da37b44352ae0aaed970d58833fe16d6218a9ba7151dc5ca4

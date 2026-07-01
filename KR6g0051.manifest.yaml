@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6g0051/v1
+canonical_location: https://kanripo.org/bkk/KR6g0051/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 涅槃論
+  identifiers:
+    alt_id:
+    - T26n1527
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1527.xml
+    old_id: T26n1527
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0051_000.yaml, hash: 'sha256:15973c50d871953da37b44352ae0aaed970d58833fe16d6218a9ba7151dc5ca4'}
+  - {seq: 1, filename: KR6g0051_001.yaml, hash: 'sha256:074dad3f9a0ec104a9bfde619ec5b438ee09c3438a2c61301548fd7c981eacd0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6g0051_001.markers.yaml, hash: 'sha256:3f1a49cf1dfeac58e57e61bb4007b1ddfec88f277bd3d6b92f5534e097f327ea'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6g0051_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4583
+  label: 涅槃論一卷
+  type: juan
+  level: 1
+hash: sha256:ecc4c403bd3d93cfdf1416366460b0eba83feaaa22197c6d1f479bdd9273271f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
