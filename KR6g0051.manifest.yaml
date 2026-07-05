@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6g0051_000.yaml, hash: 'sha256:15973c50d871953da37b44352ae0aaed970d58833fe16d6218a9ba7151dc5ca4'}
-  - {seq: 1, filename: KR6g0051_001.yaml, hash: 'sha256:074dad3f9a0ec104a9bfde619ec5b438ee09c3438a2c61301548fd7c981eacd0'}
+  - {seq: 1, filename: KR6g0051_001.yaml, hash: 'sha256:e955314f231bd16cb876873cb84b9b907789fbce0ae52ec3d13725f6c93b511e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6g0051_001.markers.yaml, hash: 'sha256:3f1a49cf1dfeac58e57e61bb4007b1ddfec88f277bd3d6b92f5534e097f327ea'}
+  - {seq: 0, role: markers, filename: assets/KR6g0051_000.markers.yaml, hash: 'sha256:cb36a56a143ac70866dbf9a6131eefcde95de41a2d067a68f58f897744512a3a'}
+  - {seq: 1, role: markers, filename: assets/KR6g0051_001.markers.yaml, hash: 'sha256:870805b83156cceff0f97e40f733f57baf188337d1460021720fb4ef6ec0d8be'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 涅槃論一卷
   type: juan
   level: 1
-hash: sha256:ecc4c403bd3d93cfdf1416366460b0eba83feaaa22197c6d1f479bdd9273271f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:85feac41e240b42928cd9cfdfb05cff05e247a161d8e7df066dcaf7e78e6eeab
