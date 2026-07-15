@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6g0051/v1
 canonical_location: https://kanripo.org/bkk/KR6g0051/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 涅槃論
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6g0051_000.yaml, hash: 'sha256:15973c50d871953da37b44352ae0aaed970d58833fe16d6218a9ba7151dc5ca4'}
-  - {seq: 1, filename: KR6g0051_001.yaml, hash: 'sha256:e955314f231bd16cb876873cb84b9b907789fbce0ae52ec3d13725f6c93b511e'}
+  - {seq: 1, filename: KR6g0051_001.yaml, hash: 'sha256:a7df87f006e904bc89a00e6a1021f8ff1736b55c3861d92173c4a289b30246b2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6g0051_000.markers.yaml, hash: 'sha256:cb36a56a143ac70866dbf9a6131eefcde95de41a2d067a68f58f897744512a3a'}
-  - {seq: 1, role: markers, filename: assets/KR6g0051_001.markers.yaml, hash: 'sha256:870805b83156cceff0f97e40f733f57baf188337d1460021720fb4ef6ec0d8be'}
+  - {seq: 1, role: markers, filename: assets/KR6g0051_001.markers.yaml, hash: 'sha256:d8416890bcb2c130663894a393fe827240cae22f25ba33abd6db94410df84b5a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 涅槃論一卷
   type: juan
   level: 1
-hash: sha256:85feac41e240b42928cd9cfdfb05cff05e247a161d8e7df066dcaf7e78e6eeab
+hash: sha256:0f8bc129e18aa0a4c6fcd4db4012ef8061e5540ff5a16ca7099da7cb01c61130
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
